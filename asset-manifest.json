@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Testportfolio.git/static/css/main.deb48b17.chunk.css",
+    "main.js": "/Testportfolio.git/static/js/main.3e9acd91.chunk.js",
+    "main.js.map": "/Testportfolio.git/static/js/main.3e9acd91.chunk.js.map",
+    "runtime-main.js": "/Testportfolio.git/static/js/runtime-main.86465843.js",
+    "runtime-main.js.map": "/Testportfolio.git/static/js/runtime-main.86465843.js.map",
+    "static/css/2.ab965100.chunk.css": "/Testportfolio.git/static/css/2.ab965100.chunk.css",
+    "static/js/2.350c4c70.chunk.js": "/Testportfolio.git/static/js/2.350c4c70.chunk.js",
+    "static/js/2.350c4c70.chunk.js.map": "/Testportfolio.git/static/js/2.350c4c70.chunk.js.map",
+    "index.html": "/Testportfolio.git/index.html",
+    "precache-manifest.233eda3f087db64f0133f40599f211d2.js": "/Testportfolio.git/precache-manifest.233eda3f087db64f0133f40599f211d2.js",
+    "service-worker.js": "/Testportfolio.git/service-worker.js",
+    "static/css/2.ab965100.chunk.css.map": "/Testportfolio.git/static/css/2.ab965100.chunk.css.map",
+    "static/css/main.deb48b17.chunk.css.map": "/Testportfolio.git/static/css/main.deb48b17.chunk.css.map",
+    "static/js/2.350c4c70.chunk.js.LICENSE.txt": "/Testportfolio.git/static/js/2.350c4c70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86465843.js",
+    "static/css/2.ab965100.chunk.css",
+    "static/js/2.350c4c70.chunk.js",
+    "static/css/main.deb48b17.chunk.css",
+    "static/js/main.3e9acd91.chunk.js"
+  ]
+}
